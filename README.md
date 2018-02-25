@@ -7,6 +7,7 @@
 Mobile Apps are now mainstream and trusted way to deliver content and services. But in a vast market, how does a mobile app become relevant, valued, and useful so it delights and retain its users?
 
 The goal of UX is to increase usability, not just in mobile applications, but in all things. This has been around even before mobile applications exist. The inability to use simple things just like opening a door is not 'Human Error', but the real culprit is faulty design. Those designs who lack:
+
 - Visibility
 - Feedback
 - Constraints
@@ -39,6 +40,7 @@ Users shouldn't have to think what buttons they should tap. Make the button dist
 
 <p slign="center">
 <img src="img/1-2.png" width="500">
+
 </p>
 
 The **fewer fields** the users see, the less they would likely abandon the process. Ask the minimum to get the users started, you could always ask further information along the way. There is no point in wasting the users time, try considering what information you should absolutely must gather.
@@ -49,6 +51,7 @@ The **fewer fields** the users see, the less they would likely abandon the proce
 
 <p slign="center">
 <img src="img/1-3.png" width="500">
+
 </p>
 
 A problem that frustrates users during login and registration is mistyping a password. This is common due to password fields are usually masked for security reasons. Always assume that the users often mistypes, especially that it is used in a mobile device.
@@ -59,6 +62,7 @@ Assuming that you are using double entry password, provide a direct feedback abo
 
 <p slign="center">
 <img src="img/1-4.png" width="500">
+
 </p>
 
 For many e-commerce apps, the registration process might require a bigger time investment and this might generate more opportunities for the users to get frustrated. Use **Progress Indicators**, Progress Indicators (or sometimes called progress trackers) to display the users progress through a sequence by breaking it up into multiple number of steps logically. They guide the users to complete a specific task. <br/><br/> Progress Indicators inform the users the following:
