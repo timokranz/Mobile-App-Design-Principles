@@ -1,6 +1,6 @@
 # Mobile App Design Principles
 
-<p slign="center">
+<p align="center">
 <img src="img/header.png" width="500">
 </p>
 
@@ -28,7 +28,7 @@ Though registration might be so common, there are still some issues that may fru
 
 ### 1. Don't use 'sign up' and 'sign in'
 
-<p slign="center">
+<p align="center">
 <img src="img/1-1.png" width="500">
 </p>
 
@@ -38,7 +38,7 @@ Users shouldn't have to think what buttons they should tap. Make the button dist
 
 ### 2. Eliminate as many fields as possible
 
-<p slign="center">
+<p align="center">
 <img src="img/1-2.png" width="500">
 
 </p>
@@ -49,7 +49,7 @@ The **fewer fields** the users see, the less they would likely abandon the proce
 
 ### 3. Let user's see their password
 
-<p slign="center">
+<p align="center">
 <img src="img/1-3.png" width="500">
 
 </p>
@@ -60,7 +60,7 @@ Assuming that you are using double entry password, provide a direct feedback abo
 
 ### 4. Break up long registration processes into steps
 
-<p slign="center">
+<p align="center">
 <img src="img/1-4.png" width="500">
 
 </p>
@@ -77,7 +77,7 @@ Studies show that letting users have a clear idea of how many steps it takes to 
 
 ### 5. Allow users to go back a step easily
 
-<p slign="center">
+<p align="center">
 <img src="img/1-5.png" width="500">
 </p>
 
