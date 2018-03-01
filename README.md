@@ -87,4 +87,8 @@ Users may want to go back one step as they use the app. Apps should incorporate 
 
 ### Be straight-forward with your app
 
+<p align="center">
+<img src="img/2-1.png" width="500">
+</p>
+
 Address tasks clearly and straight-forward. Place call to actions up front and center. Highlight your app's key and new features in appropriate places so there will be no frustration and confusion.
